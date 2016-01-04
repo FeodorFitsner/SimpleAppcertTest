@@ -1,0 +1,6 @@
+os: test
+
+build_script:
+- ps: .\xap\appCert.ps1
+
+test: off
